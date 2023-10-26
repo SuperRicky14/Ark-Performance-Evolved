@@ -1,4 +1,4 @@
-# Ark-Patcher
+# Ark: Performance Evolved
 Automatically adds a few patches that improve the performance, stability and change how the game feels.
 
 ## How to use it
