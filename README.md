@@ -8,4 +8,4 @@ It has a few brief descriptions of each patch and shows you where the source of 
 
 ### IMPORTANT:
 DO NOT remove "BaseScalability.ini", "Engine.ini", "BaseEngine.ini", "DefaultEngine.ini" from the same folder the program is running in! That will cause crashes and / or bugs.
-This happens because the program reads those files and copy's them to your ark folder!
+This happens because the program reads those files and copy's them to your ark folder! This may work with Ark: Survival of the Fittest, but no guaruntees.
